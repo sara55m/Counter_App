@@ -1,0 +1,37 @@
+.container{
+    height:550px;
+    width:400px;
+    background-color: aqua;
+}
+
+.main{
+    position:absolute;
+    top:40px;
+    left:130px;
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    background-color: rgb(106, 0, 255);
+}
+
+
+.increase{
+    position:absolute;
+    top:380px;
+    left:75px;
+    height:120px;
+    width:120px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 85);
+}
+
+
+.reset{
+    position:absolute;
+    top:390px;
+    left:100px;
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color: rgb(0, 255, 64);
+}

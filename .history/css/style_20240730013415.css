@@ -1,0 +1,15 @@
+.container{
+    height:550px;
+    width:400px;
+    background-color: aqua;
+}
+
+.main{
+    position:absolute;
+    top:35px;
+    left:130px;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    background-color: rgb(106, 0, 255);
+}

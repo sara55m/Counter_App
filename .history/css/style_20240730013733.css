@@ -1,0 +1,26 @@
+.container{
+    height:550px;
+    width:400px;
+    background-color: aqua;
+}
+
+.main{
+    position:absolute;
+    top:40px;
+    left:130px;
+    height:160px;
+    width:160px;
+    border-radius: 50%;
+    background-color: rgb(106, 0, 255);
+}
+
+
+.increase{
+    position:absolute;
+    top:150px;
+    left:80px;
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 85);
+}
